@@ -1,7 +1,7 @@
 # Asteroids_game
 A copy of the original 1979 Atari game called asteroids. It's Asteroids just shittier, and only with the core game mechanics.
 
-(Written in C!)
+(Written in C)
 
 ![Képernyőfelvétel (806)](https://user-images.githubusercontent.com/71033576/206851367-bd9c0cdd-8d06-4598-bb66-15c66b4dfbe6.png)
 
